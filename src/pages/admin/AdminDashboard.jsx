@@ -27,6 +27,8 @@ const AdminDashboard = () => {
               <p className="text-2xl font-bold text-blue-800">{stats.totalQuizzes}</p>
             </div>
           </div>
+
+          
         </Card>
 
         <Card className="bg-green-50 border-green-200">
